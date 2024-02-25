@@ -5,7 +5,7 @@ remote_server="6a2d7e3b59f1.3a2627c1.alu-cod.online"
 remote_user="6a2d7e3b59f1"
 remote_secret="328d3b338a4ced526c9a"
 remote_location="/summative/1023-2024j"
-local_location="negpod_4-q1"
+local_location="negpod_11-q1"
 
 # Function to initiate the backup process
 perform_data_backup() {
