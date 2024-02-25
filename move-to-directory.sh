@@ -1,7 +1,7 @@
 #!/bin/bash
 # Ange
 # Define the directory name
-directory_name="negpod_25-q1"
+directory_name="negpod_11-q1"
 
 # Belse
 # Create the directory if it doesn't exist
